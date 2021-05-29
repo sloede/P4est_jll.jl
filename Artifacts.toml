@@ -1,0 +1,143 @@
+[[P4est]]
+arch = "aarch64"
+git-tree-sha1 = "43ef4d8881651459a49db1576242f998c5bb560e"
+os = "macos"
+
+    [[P4est.download]]
+    sha256 = "b3eacd1935e81370330f51fa98aa37526e4ab641620655fbf84c627dca8e355e"
+    url = "https://github.com/sloede/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.aarch64-apple-darwin.tar.gz"
+[[P4est]]
+arch = "aarch64"
+git-tree-sha1 = "5968fbea0d97d085b7539f7112641ef74262e86b"
+libc = "glibc"
+os = "linux"
+
+    [[P4est.download]]
+    sha256 = "9bf6381722829911ce8a7f42a166f6b9940debfc30dd7a895741fad6e8db5093"
+    url = "https://github.com/sloede/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.aarch64-linux-gnu.tar.gz"
+[[P4est]]
+arch = "aarch64"
+git-tree-sha1 = "2a10bda397d19efad78254683dfd32b763dabe62"
+libc = "musl"
+os = "linux"
+
+    [[P4est.download]]
+    sha256 = "62ddfdcd655c274549425f0faf0024490e9b4c44cd587720c0d7e572ee3b3ad6"
+    url = "https://github.com/sloede/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.aarch64-linux-musl.tar.gz"
+[[P4est]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3592fd0b80648962ccea0a12ae5373c02d763c8d"
+libc = "glibc"
+os = "linux"
+
+    [[P4est.download]]
+    sha256 = "99eba8b4c64d09cd5b79a5ed167260e3d8d96221a68a97eed92f1ecc0ca3a95e"
+    url = "https://github.com/sloede/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.armv6l-linux-gnueabihf.tar.gz"
+[[P4est]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0c3466e111f78edbf8c76c39f9e05390dd581692"
+libc = "musl"
+os = "linux"
+
+    [[P4est.download]]
+    sha256 = "ba67868f6cfd2454cb425ba3d80e24e4da5f146cf93a84c0046a11c2c8ac17db"
+    url = "https://github.com/sloede/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.armv6l-linux-musleabihf.tar.gz"
+[[P4est]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "fc12ff69f2191c07d6c2ec08950b2ed83e1247ae"
+libc = "glibc"
+os = "linux"
+
+    [[P4est.download]]
+    sha256 = "bbc5cd252e22deb022e9d5f4da0876d7719a404079db1982afc0da34475e4ec8"
+    url = "https://github.com/sloede/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.armv7l-linux-gnueabihf.tar.gz"
+[[P4est]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "03bd2297481c537f8a5a09e9b9630159c9edb524"
+libc = "musl"
+os = "linux"
+
+    [[P4est.download]]
+    sha256 = "968dc465bef09ac11813aa7ce31aabb92d14d3c586efe1d7b6caae4eab8da467"
+    url = "https://github.com/sloede/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.armv7l-linux-musleabihf.tar.gz"
+[[P4est]]
+arch = "i686"
+git-tree-sha1 = "24ba9c82e9eb91c5f7fb433908145f097e756fe0"
+libc = "glibc"
+os = "linux"
+
+    [[P4est.download]]
+    sha256 = "b80d5617ba5c6b7bc24c82f9175ae5c60a3fd33cdf24e3e950eeaab6dbd47a8b"
+    url = "https://github.com/sloede/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.i686-linux-gnu.tar.gz"
+[[P4est]]
+arch = "i686"
+git-tree-sha1 = "28e1bae0aaa625fcd8d96808086d026c7152b1d9"
+libc = "musl"
+os = "linux"
+
+    [[P4est.download]]
+    sha256 = "f4db549bed9b257d228e67705a2ff5591cfd22e4f59f64dff4a35574bf43f213"
+    url = "https://github.com/sloede/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.i686-linux-musl.tar.gz"
+[[P4est]]
+arch = "i686"
+git-tree-sha1 = "ef7bf02df0110ef2e88e27ab239aec18cf79bde6"
+os = "windows"
+
+    [[P4est.download]]
+    sha256 = "23f7f5f5438dd4e9f2e969fd3bc39d61c28022daed1c36c3788cf7a22460710d"
+    url = "https://github.com/sloede/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.i686-w64-mingw32.tar.gz"
+[[P4est]]
+arch = "powerpc64le"
+git-tree-sha1 = "2e9a04ad6581ba2ec908c108cdd3f34aecb28a3c"
+libc = "glibc"
+os = "linux"
+
+    [[P4est.download]]
+    sha256 = "08a107ee55ae280ecba0f771410bcd938865821fe406ed2fb9fdea0a924783cd"
+    url = "https://github.com/sloede/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.powerpc64le-linux-gnu.tar.gz"
+[[P4est]]
+arch = "x86_64"
+git-tree-sha1 = "cbc18281c0bf5283509d08bf7bd2ff826f6b434b"
+os = "macos"
+
+    [[P4est.download]]
+    sha256 = "f4cfa9eeb86ac9bb73fa4e9d5cf6a7b4e35976dfcb3bd276d60f8fdd1eb886d0"
+    url = "https://github.com/sloede/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.x86_64-apple-darwin.tar.gz"
+[[P4est]]
+arch = "x86_64"
+git-tree-sha1 = "32caf2d2302ac50a3644cdd5e2bed389ad1e1b42"
+libc = "glibc"
+os = "linux"
+
+    [[P4est.download]]
+    sha256 = "8d2edbbd88399fba600901eed0aacf45f01a87e3a8c5b8b3e4ec8ee58a1598fc"
+    url = "https://github.com/sloede/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.x86_64-linux-gnu.tar.gz"
+[[P4est]]
+arch = "x86_64"
+git-tree-sha1 = "fdf9e55342a007c22a6bab0d1fb9f8640689ecb1"
+libc = "musl"
+os = "linux"
+
+    [[P4est.download]]
+    sha256 = "625d31b15718795a1b9cbe37c4194a279d19912f1108a4ef926bde7fbe33449e"
+    url = "https://github.com/sloede/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.x86_64-linux-musl.tar.gz"
+[[P4est]]
+arch = "x86_64"
+git-tree-sha1 = "e053095050ff9cef32a990ad4052d861a4e0ba55"
+os = "freebsd"
+
+    [[P4est.download]]
+    sha256 = "66eaa5fee181145c7651f5a99b1b2f819fba01198f332c134a4569f03028f952"
+    url = "https://github.com/sloede/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.x86_64-unknown-freebsd.tar.gz"
+[[P4est]]
+arch = "x86_64"
+git-tree-sha1 = "6e6b2cb664e6d2221ff28f1dd574555b463d5015"
+os = "windows"
+
+    [[P4est.download]]
+    sha256 = "5292ac1ef13ce03a9c3930f4b8c5e5af8ea9e7211871c764496122c90fb6ff5e"
+    url = "https://github.com/sloede/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.x86_64-w64-mingw32.tar.gz"
